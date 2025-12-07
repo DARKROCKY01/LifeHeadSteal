@@ -1,0 +1,6 @@
+name: LifeSteal
+main: com.lifesteal.LifeSteal
+version: 1.0
+api-version: 1.21
+author: YOU
+description: Simple LifeSteal Plugin for Paper 1.21.4
